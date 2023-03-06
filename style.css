@@ -78,7 +78,7 @@ p {
 .experience-area {
 
     display: flex;
-
+    margin-top: 50px;
     gap: 50px;
 
 }
@@ -92,4 +92,29 @@ p {
 .container {
     padding-left: 20px;
     padding-right: 20px;
+}
+
+.shadow {
+    width: 500px;
+    box-shadow: 10px 10px 40px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+    border-radius: 10px;
+    border-left: 7px solid greenyellow;
+}
+
+.padding-sm {
+    padding: 100px;
+    margin-bottom: 50px;
+
+}
+
+#box-2 {
+
+
+    border-left: 7px solid rgb(255, 200, 47);
+}
+
+footer p {
+
+    text-align: center;
 }
