@@ -1,0 +1,76 @@
+body {
+    font-family: 'Phudu', cursive;
+    margin: 0
+}
+
+.name {
+
+    font-size: 80px;
+    margin: 0;
+    color: rgb(255, 165, 48);
+
+}
+
+.top-header {
+    padding-top: 0px;
+}
+
+.image {
+    width: 100%;
+}
+
+h3 {
+
+    font-family: sans-serif;
+
+
+
+}
+
+p {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: initial;
+}
+
+
+.hero-section {
+    display: flex;
+    gap: 50px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10px;
+    padding-top: 40px;
+
+}
+
+.half-width img {
+    max-width: 600px;
+    width: 100%;
+
+}
+
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(117, 240, 68);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+.hero-section {
+
+    background-image: url(image/back.png);
+
+}
+
+.dream-big {
+    display: flex;
+    gap: 50px;
+    margin-top: 100px;
+
+}
